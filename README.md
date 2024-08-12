@@ -26,26 +26,33 @@
 
 ### OS
 
-  <img src="images/icons/linux-original.svg" width=64px>
-  <img src="images/icons/archlinux-original.svg" width=64px>
+  <div>
+    <img src="images/icons/linux-original.svg" width=64px>
+    <img src="images/icons/archlinux-original.svg" width=64px>
+  </div>
 
 ### Languages
 
+<div>
   <img src="images/icons/python-original.svg" width=64px>
   <img src="images/icons/go-original.svg" width=64px>
   <img src="images/icons/bash-original.svg" width=64px>
+</div>
 
 ### Libraries/Frameworks
 
+<div>
   <img src="images/icons/django-plain.svg" width=64px>
   <img src="images/icons/fastapi-original.svg" width=64px>
   <img src="images/icons/sqlalchemy-original.svg" width=64px>
   <img src="images/icons/pandas-original.svg" width=64px>
   <img src="images/icons/numpy-original.svg" width=64px>
   <img src="images/icons/matplotlib-original.svg" width=64px>
+</div>
 
 ### Tools
 
+<div>
   <img src="images/icons/opentelemetry-original.svg" width=64px>
   <img src="images/icons/jaegertracing-original.svg" width=64px>
   <img src="images/icons/elasticsearch-original.svg" width=64px>
@@ -55,16 +62,21 @@
   <img src="images/icons/git-original.svg" width=64px>
   <img src="images/icons/vscode-original.svg" width=64px>
   <img src="images/icons/vim-original.svg" width=64px>
+</div>
 
 ### AMQP
 
+<div>
   <img src="images/icons/rabbitmq-original.svg" width=64px>
   <img src="images/icons/apachekafka-original.svg" width=64px>
+</div>
 
 ### SQL / NoSQL
 
+<div>
   <img src="images/icons/postgresql-original.svg" width=64px>
   <img src="images/icons/redis-original.svg" width=64px>
+</div>
 
 <h2>
 <img align="center" src="images/gif/projects.gif" width="29"/>
