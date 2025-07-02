@@ -5,7 +5,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Nikita </h1>
 
 <section>
-    <section align="center">
+    <p align="center">
         <a href="https://t.me/твой_никнейм">
             <img src="https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
@@ -15,7 +15,7 @@
         <a href="mailto:neyakki@gmail.com">
             <img src="https://img.shields.io/badge/gmail-d62828?style=flat&logo=gmail&logoColor=white" alt="CodePen" />
         </a>
-    </section>
+    </>
     <h3 align="center">
         Backend Developer from Chuvashia 
         <img src="static/chuvashia.png" alt="Chuvashia Flag" height="16"> — I love building things that work well, make sense, and are easy to support. 🚀 🚀
@@ -34,7 +34,7 @@
 
 <section>
     <h3>Language</h3> 
-    <article align="center">
+    <p align="center">
         <a><img src="static/svg/python-original.svg" width=50></a>
         <a><img src="static/svg/bash-original.svg" width=50></a>
         <a><img src="static/svg/go-original.svg" width=50></a>
@@ -43,39 +43,39 @@
         <a><img src="static/svg/lua-original.svg" width=50></a>
         <a><img src="static/svg/javascript-original.svg" width=50></a>
         <a><img src="static/svg/typescript-original.svg" width=50></a>
-    </article>
+    </p>
 </section>
 
 <section>
     <h3>DB</h3>
-    <article align="center">
+    <p align="center">
     <a><img src="static/svg/sqlite-original.svg" width=50></a>
     <a><img src="static/svg/postgresql-original.svg" width=50></a>
     <a><img src="static/svg/redis-original.svg" width=50></a>
-    </article>
+    </p>
 </section>
 
 <section>
     <h3>OS</h3>
-    <article align="center">
+    <p align="center">
         <a><img src="static/svg/archlinux-original.svg" width=50></a>
-    </article>
+    </p>
 </section>
 
 <section>
     <h3>Message Broker</h3>
-    <article align="center">
+    <p align="center">
         <a><img src="static/svg/rabbitmq-original.svg" width=50></a>
         <a><img src="static/svg/apachekafka-original.svg" width=50></a>
-    </article>
+    </p>
 </section>
 
 <section>
     <h3>Tools</h3>
-    <article align="center">
+    <p align="center">
         <a><img src="static/svg/git-original.svg" width=50></a>
         <a><img src="static/svg/jupyter-original-wordmark.svg" width=50></a>
-    </article>
+    </p>
 </section>
 
 ## 📊 GitHub Stats
