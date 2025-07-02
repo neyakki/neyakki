@@ -1,30 +1,34 @@
-<div>
-    <img src="static/welcome.gif">
+<div align="center">
+    <img src="static/welcome.gif" width="700">
 </div>
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Nikita </h1>
 
-<section align="center">
-    <a href="https://t.me/твой_никнейм">
-        <img src="https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://www.linkedin.com/in/">
-        <img src="https://img.shields.io/badge/linkedin-430098?style=flat&logo=linkedin&logoColor=white" alt="CodePen" />
-    </a>
-    <a href="mailto:neyakki@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-d62828?style=flat&logo=gmail&logoColor=white" alt="CodePen" />
-    </a>
+<section>
+    <section align="center">
+        <a href="https://t.me/твой_никнейм">
+            <img src="https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+        </a>
+        <a href="https://www.linkedin.com/in/">
+            <img src="https://img.shields.io/badge/linkedin-430098?style=flat&logo=linkedin&logoColor=white" alt="CodePen" />
+        </a>
+        <a href="mailto:neyakki@gmail.com">
+            <img src="https://img.shields.io/badge/gmail-d62828?style=flat&logo=gmail&logoColor=white" alt="CodePen" />
+        </a>
+    </section>
     <h3 align="center">
         Backend Developer from Chuvashia 
         <img src="static/chuvashia.png" alt="Chuvashia Flag" height="16"> — I love building things that work well, make sense, and are easy to support. 🚀 🚀
     </h3>
 </section>
 
-- 🔧 Backend developer with over 3 years of experience building reliable and scalable services using Python, FastAPI, and Django.
-- 🌿 I value clear requirements and clean code — it makes projects easier to understand and maintain.
-- 🤝 I enjoy working in teams where we can learn from each other and find the best solutions together.
-- 💡 In my free time, I like to recharge by spending some quiet moments reflecting and brainstorming new ideas.
-- 🚀 Always open to new challenges and technologies, striving to create efficient and optimized backend solutions.
+<ul>
+    <li>🔧 Backend developer with over 3 years of experience building reliable and scalable services using Python, FastAPI, and Django.</li>
+    <li>🌿 I value clear requirements and clean code — it makes projects easier to understand and maintain.</li>
+    <li>🤝 I enjoy working in teams where we can learn from each other and find the best solutions together.</li>
+    <li>💡 In my free time, I like to recharge by spending some quiet moments reflecting and brainstorming new ideas.</li>
+    <li>🚀 Always open to new challenges and technologies, striving to create efficient and optimized backend solutions.</li>
+</ul>
 
 ## 🛠️ Languages & Tools
 
