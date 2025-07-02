@@ -2,7 +2,9 @@
     <img src="static/welcome.gif" width="700">
 </div>
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Nikita </h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Nikita 
+<img src="https://komarev.com/ghpvc/?username=neyakki&color=blueviolet&style=plastic&label=view" alt="neyakki" />
+</h1>
 
 <section>
     <p align="center">
