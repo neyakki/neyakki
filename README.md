@@ -8,10 +8,10 @@
 
 <section>
     <p align="center">
-        <a href="https://t.me/твой_никнейм">
+        <a href="https://t.me/neyakki">
             <img src="https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
-        <a href="https://www.linkedin.com/in/">
+        <a href="https://www.linkedin.com/in/nikita-afanacev-179075311/">
             <img src="https://img.shields.io/badge/linkedin-430098?style=flat&logo=linkedin&logoColor=white" alt="CodePen" />
         </a>
         <a href="mailto:neyakki@gmail.com">
